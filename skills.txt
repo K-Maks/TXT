@@ -1,0 +1,3 @@
+Theory_of_Software - Client-server architecture, SDLS, Kind_of_Software_testing, Testing_documentation
+Testing_directions - web-testing, mobile-tisting, API-testing
+API_testing - Postman
